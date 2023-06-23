@@ -1,0 +1,18 @@
+
+      Login Page
+          |
+  Fields -> Email or Phone Number  and Password and signUp url and Forgot password.
+
+
+      Sign Up
+         |
+Fields  -> First Name and Last name and Email and Phone Number and Create Password
+
+
+  Dashboard or home 
+          |
+  Header -> Shows -> Name and logo right side and left side corner shows Logout
+
+  Side bar -> shows -> Home default -> shows List and also show options Create and update and delete pop-ups depends on actions.
+           -> Profile -> Show Profile Data and also give edit option.
+           ->  Logout -> shows conformation and redirect to login page
