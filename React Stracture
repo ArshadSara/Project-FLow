@@ -16,3 +16,49 @@ Fields  -> First Name and Last name and Email and Phone Number and Create Passwo
   Side bar -> shows -> Home default -> shows List and also show options Create and update and delete pop-ups depends on actions.
            -> Profile -> Show Profile Data and also give edit option.
            ->  Logout -> shows conformation and redirect to login page
+
+
+
+----------------------------------------------------------------------------------
+
+React Project Create flow-------->
+
+Create Local folder
+       |
+open terminal(command promt)
+       |
+use this react command -> npx create-react-app (folder name) .
+        |
+npm install->npm start.
+
+
+
+-----------------------------------------------------------------------------------
+
+Node Project Create flow ------------->
+
+Use this commands--->
+
+1. npm init -y
+
+2. npm i express mongoose cors body-parser nodemon.
+
+----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
