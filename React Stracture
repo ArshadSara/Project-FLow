@@ -6,16 +6,28 @@
 
       Sign Up
          |
-Fields  -> First Name and Last name and Email and Phone Number and Create Password
+Fields  -> First Name and Last name and Email and Phone Number and Create Password.
 
 
   Dashboard or home 
           |
-  Header -> Shows -> Name and logo right side and left side corner shows Logout
+  Header -> Shows -> Name and logo right side and left side corner shows Logout.
 
-  Side bar -> shows -> Home default -> shows List and also show options Create and update and delete pop-ups depends on actions.
+  Side bar -> shows -> Home default -> shows Schools List and also show options Create and update and delete pop-ups depends on actions.
            -> Profile -> Show Profile Data and also give edit option.
-           ->  Logout -> shows conformation and redirect to login page
+           -> Logout -> shows conformation and redirect to login page.
+
+
+Schools List -> once login and redirct to Dashboard and shoows Schools list. its has no show create school button.
+
+      Create school -> show popup and details -> Enter u r school name and once submit -> close popup and shoews Schools list.
+
+      school name aginest shows actions -> View and Edit and Delete.
+
+      Click on view and rediect school page and shows basic informaion and create student about on school and list of students list and actions(view and edit and delete).
+      depens on dropdown schools list.
+
+
 
 
 
